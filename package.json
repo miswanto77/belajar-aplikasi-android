@@ -1,0 +1,26 @@
+{
+  "name": "belajar-aplikasi-android",
+  "version": "1.0.0",
+  "description": "Repository untuk belajar membuat aplikasi Android menggunakan HTML, CSS, JavaScript, dan bantuan AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miswanto77/belajar-aplikasi-android.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/miswanto77/belajar-aplikasi-android/issues"
+  },
+  "homepage": "https://github.com/miswanto77/belajar-aplikasi-android#readme",
+  "dependencies": {
+    "@capacitor/android": "^8.6.0",
+    "@capacitor/cli": "^8.6.0",
+    "@capacitor/core": "^8.6.0"
+  }
+}
